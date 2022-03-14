@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Vika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Technical writer in Yandex and Junior Data Analyst
+Data Analyst student and Technical Writer in Yandex. 
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:viktoriya.sprn@mail.ru'>viktoriya.sprn@mail.ru</a>
 </p>
 
-### 🛠 Technical Stack
-*   Python, C++ languages
-*   PostgreSQL, SQL Server
-*   GitHub/Bitbucket
+
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  ### 🛠 Technical Stack
+*   Python, C++ languages
+*   PostgreSQL, SQL Server
+*   GitHub/Bitbucket
