@@ -1,30 +1,13 @@
-<!--
-**versiera/versiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Вика <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+Я учусь в НИТУ МИСиС на направлении "Информатика и вычислительная техника" и пишу техническую документацию в Яндексе. Например, [дока по YFM](https://ydocs.tech/ru/) — моих ручек дело.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Vika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+С недавних пор моя страсть — анализ данных. Я люблю искать закономерности и принимать решения на основе фактов и цифр. Как говорил классик, "во всем мне хочется дойти до самой сути...". Сейчас я прохожу обучение на курсе "Аналитик данных" от Яндекс.Практикума. Вы можете ознакомиться с моими [учебными проектами](https://github.com/versiera/practicum_data_analysis).
 
-Data Analyst student and Technical Writer in Yandex. 
-
-<p align='center'>
-   📫 How to reach me: <a href='mailto:viktoriya.sprn@mail.ru'>viktoriya.sprn@mail.ru</a>
-</p>
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="250" />
+  
   
   ### 🛠 Technical Stack
-*   Python, C++ languages
+*   Python, C++
 *   PostgreSQL, SQL Server
-*   GitHub/Bitbucket
+*   GitHub, Bitbucket
