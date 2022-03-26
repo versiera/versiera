@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370" height="250" />
   
 ### 🛠 Technical Stack
-*   Python (pandas, numpy, matplotlib)
+*   Python (pandas, scipy, matplotlib, seaborn)
 *   C++
 *   PostgreSQL, SQL Server
 *   GitHub, Bitbucket
